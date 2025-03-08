@@ -1,5 +1,5 @@
 
-## Zilb App
+## Zlib App
 
 To inflate and deflate AppleHDA resources .zlib
 
